@@ -1,0 +1,198 @@
+/*USER DETAILS*/
+Insert into User_Details Values ('Neeraj', 'Bhagchandani', 'Player', 'neerajb', 'neerajb', '1050 Benton Street, Santa Clara', 6694563021, 'neeraj4592@gmail.com', '2015-10-15 03:20:41')
+Insert into User_Details Values ('Urvi', 'Munot', 'Player', 'urvi123', 'munot123', '1050 Benton Street, Santa Clara', 4084563003, 'munot.urvi@gmail.com', '2015-09-15 15:27:41')
+Insert into User_Details Values ('Sahil', 'Jain', 'Host', 'sahil', 'sajain', '1050 Benton Street, Santa Clara', 4085233027, 'sahiljain@gmail.com', '2015-10-13 12:20:41')
+Insert into User_Details Values ('Shalaka', 'Dixit', 'Manager', 'shakal', 'shakal123', '1050 Benton Street, Santa Clara', 6694563022, 'shalaka.25@gmail.com', '2015-08-15 09:20:41')
+Insert into User_Details Values ('Micheal', 'Rojers', 'Player', 'mike', 'mike456', '1190 Benton Street, Santa Clara', 6694561521, 'mrojers@gmail.com', '2015-08-15 08:26:38')
+Insert into User_Details Values ('Mia', 'Miller', 'Host', 'miam', 'miam', '205 Jackson Street, Santa Clara', 4084563401, 'miamiller@gmail.com', '2015-09-03 22:20:41')
+Insert into User_Details Values ('Adriana', 'Gonzalves', 'Manager', 'adrianag', 'adrianag', '315 Jackson Street, Santa Clara', 4084563748, 'agonzalves@gmail.com', '2015-07-23 15:20:41')
+Insert into User_Details Values ('Alex', 'Fergusson', 'Player', 'alexf', 'alexf', '122 Monroe Street, Santa Clara', 6694563044, 'afergusson@gmail.com', '2015-11-19 20:02:41')
+Insert into User_Details Values ('Tejas', 'Patil', 'Sponsor', 'tejasp', 'tejasp', '150 Lafayette Street, Santa Clara', 4084563741, 'tjpatil@gmail.com', '2015-10-18 01:20:41')
+Insert into User_Details Values ('Ryan', 'Ronalds', 'Sponsor', 'ryanron', 'ryan123', '84 Jacksonville Street, Santa Clara', 6694567580, 'ryan45@gmail.com', '2015-11-05 15:30:21')
+Insert into User_Details Values ('Anthony', 'Fullerton', 'Host', 'anthony', 'anthony123', '1190 Benton Street, Santa Clara', 6692573048, 'anthonyf@gmail.com', '2015-10-09 17:53:21')
+Insert into User_Details Values ('Pooja', 'Gandhi', 'Audience', 'poojag', 'pooja123', '1050 Benton Street ', 6692314567, 'ppooja@gmail.com', '2015-11-30 14:00:56')
+Insert into User_Details Values ('Shailee', 'Madhani', 'Audience', 'shailee', 'shailee', '1050 Benton Street', 4087795566, 'shailee@yahoo.com', '2015-09-23 12:00:22')
+Insert into User_Details Values ('Sam', 'Peters', 'Audience', 'samp', 'sam123', '56 Lafayette Street', 4087795678, 'samp@yahoo.com', '2015-09-12 13:55:50')
+Insert into User_Details Values ('David', 'Beckham', 'Player', 'davidb', 'david', '114 Alison street', 6692314567, 'david@hotmail.com', '2015-10-11 11:55:18')
+Insert into User_Details Values ('Samuel', 'Hansani', 'Player', 'samuel', 'samuel', '1188 Bakers Street San Jose', 6692331122, 'samueal@yahoo.com', '2015-10-12 11:50:56')
+Insert into User_Details Values ('Ashton', 'Kutcher', 'Player', 'Ash', 'Ashton', '567 Miller Street', 6691234567, 'ash@msn.com', '2015-10-12 10:55:44')
+Insert into User_Details Values ('Ben', 'Fuller', 'Player', 'Ben', 'Ben124', '556 Moore Street', 4085671234, 'ben@yahoo.com', '2015-10-10 09:40:22')
+Insert into User_Details Values ('Jannis', 'Miller', 'Player', 'jannis', 'jannis123', '45 Eller street', 6694561234, 'jannis@hotmail.com', '2015-10-11 10:56:44')
+Insert into User_Details Values ('Rachel', 'Wong', 'Player', 'rachel', 'rachel', '1050 Monroe street', 4098637833, 'rachel@gmail.com', '2015-09-11 09:10:00')
+Insert into User_Details Values ('Pheobe', 'Buffay', 'Player', 'Pheobe', 'pheobe', '123 Fullerton Street', 4085567890, 'pheobe@gmail.com', '2015-10-11 10:11:12')
+Insert into User_Details Values ('Jessica', 'Simpson', 'Player', 'jessica', '1wesds', '1050 Benton Street', 4085679999, 'jessica@gmail.com', '2015-09-11 10:11:11')
+
+/* Venue */
+Insert into Venue Values ('Levis Stadium', '4900 Marie P Bartolo Way, Santa Clara', 'Soccer', 'Albert Jose', 6694567892)
+Insert into Venue Values ('Stevens Stadium', '4900 Marie P Bartolo Way, Santa Clara', 'Soccer', 'Albert Jose', 6694321892)
+Insert into Venue Values ('SJSU Spartan Stadium', '1251 S 10th St, San Jose', 'Basketball', 'Albert Jose', 6694567250)
+Insert into Venue Values ('StephanScott Stadium', '443 El Camino Real, Santa Clara', 'Baseball', 'Jaden Smith', 6694561384)
+Insert into Venue Values ('Santa Clara Uni', '500 El Camino Real, Santa Clara', 'Water Polo', 'Anthiny Hopkins', 6694560540)
+Insert into Venue Values ('Santa Clara Uni', '500 El Camino Real, Santa Clara', 'Tennis', 'Julia Roberts', 6694569821)
+Insert into Venue Values ('Santa Clara Uni', '500 El Camino Real, Santa Clara', 'Tennis', 'Jessica Simpson', 6694563322)
+Insert into Venue Values ('Santa Clara Uni', '500 El Camino Real, Santa Clara', 'Tennis', 'Paul Walker', 6694564017)
+Insert into Venue Values ('Santa Clara Uni', '500 El Camino Real, Santa Clara', 'Badminton', 'Harry Scholes', 6694566826)
+Insert into Venue Values ('Santa Clara Uni', '500 El Camino Real, Santa Clara', 'Badminton', 'Ron Dudley', 6694563021)
+
+/* Teams*/
+Insert into Teams Values ('Los Angeles Sparks','2015-10-15 12:10:55',1)
+Insert into Teams Values ('San Jose Spiders','2015-09-22 15:25:21',2)
+Insert into Teams Values ('Bakersfield Blaze','2015-10-12 14:20:56',5)
+Insert into Teams Values ('San Rafeal Pacifics','2015-10-23 22:14:56',9)
+Insert into Teams Values ('Stockton Ports','2015-11-01 00:00:00',15)
+Insert into Teams Values ('Rancho Quakes','2015-11-02 12:44:22',16)
+Insert into Teams Values ('Visalia Rawhide','2015-11-10 14:23:55',17)
+Insert into Teams Values ('Chico Outlaws','2015-11-18 13:55:55',18)
+Insert into Teams Values ('Daredevils','2015-11-20 14:18:55',19)
+Insert into Teams Values ('Super girls','2015-11-01 00:23:12',20)
+Insert into Teams Values ('Viva','2015-10-18 12:12:12',21)
+Insert into Teams Values ('Ameera','2015-12-11 17:11:12',22)
+Insert into Teams Values ('SJ Spiders','2015-10-03 15:25:21',2)
+
+/*Players*/
+
+Insert into Players Values (1,'Wayne Rooney')
+Insert into Players Values (1,'Ronaldo')
+Insert into Players Values (1,'Rohit')
+Insert into Players Values (1,'Neeraj')
+Insert into Players Values (1,'David')
+Insert into Players Values (2,'Mia')
+Insert into Players Values (2,'Aashna')
+Insert into Players Values (2,'Urvi')
+Insert into Players Values (2,'Miranda')
+Insert into Players Values (2,'Megan')
+Insert into Players Values (3,'David')
+Insert into Players Values (3,'Tevez')
+Insert into Players Values (3,'Micheal')
+Insert into Players Values (3,'Sunny')
+Insert into Players Values (3,'Orlando')
+Insert into Players Values (4,'Alex')
+Insert into Players Values (4,'Adam')
+Insert into Players Values (4,'Hugh')
+Insert into Players Values (4,'Salman')
+Insert into Players Values (4,'Rojer')
+Insert into Players Values (5,'David')
+Insert into Players Values (5,'Aniket')
+Insert into Players Values (5,'Thomas')
+Insert into Players Values (5,'Gilbert')
+Insert into Players Values (5,'Ramesh')
+Insert into Players Values (6,'Ashton')
+Insert into Players Values (6,'Nilay')
+Insert into Players Values (6,'Tilak')
+Insert into Players Values (6,'Kuldeep')
+Insert into Players Values (6,'Manoj')
+Insert into Players Values (7,'Vikas')
+Insert into Players Values (7,'Samuel')
+Insert into Players Values (7,'Imran')
+Insert into Players Values (7,'Stark')
+Insert into Players Values (7,'Richard')
+Insert into Players Values (8,'Raymond')
+Insert into Players Values (8,'Ben')
+Insert into Players Values (8,'Joshua')
+Insert into Players Values (8,'Ross')
+Insert into Players Values (8,'Joey')
+Insert into Players Values (8,'Jannis')
+Insert into Players Values (8,'Salma')
+Insert into Players Values (9,'Rachel')
+Insert into Players Values (9,'Kim')
+Insert into Players Values (10,'Pheobe')
+Insert into Players Values (10,'Mila')
+Insert into Players Values (11,'Jessica')
+Insert into Players Values (11,'Lola')
+Insert into Players Values (13,'Martin')
+
+/* EVENT */
+Insert into Event Values ('Super Soccer', 3000, 'Soccer', 'Approved', 3, 4, 1, '2015-10-10 22:20:34', '2015-12-05 10:00:00', '2015-12-07 21:00:00', NULL, NULL, NULL, 'Musigma')
+Insert into Event Values ('Slam Dunk', 3500, 'Basketball', 'Approved', 6, 7, 3, '2015-10-03 15:22:03', '2015-11-25 16:00:00', '2015-11-27 21:00:00', NULL, NULL, 3200, NULL)
+Insert into Event Values ('Double Trouble', 2000, 'Tennis', 'Approved', 11, 7, 9, '2015-11-01 16:55:44', '2015-12-10 10:00:00', '2015-12-11 16:00:00', NULL, NULL, NULL, 'Paypal')
+Insert into Event Values ('Shuttle Hit', 1500, 'Badminton', 'Approved', 3, 4, 10,'2015-10-01 17:55:55', '2015-10-05 11:00:00', '2015-10-07 12:00:00', NULL, NULL, 1200, 'Musigma')
+
+/* Sponsorship */
+Insert into Sponsorship Values (9, 100, 'Monetary', 500, 'Approved', 'Wilson', '2015-10-28 21:56:06')
+Insert into Sponsorship Values (9, 100, 'Discount Coupon', 200, 'Approved', 'All star Academy', '2015-10-30 15:34:18')
+Insert into Sponsorship Values (10, 101, 'Monetary', 200, 'Pending', 'Pending', '2015-11-02 11:15:13')
+Insert into Sponsorship Values (9, 101, 'Discount Coupon', 100, 'Approved', 'Safeway', '2015-11-12 13:13:10')
+Insert into Sponsorship Values (10, 100, 'Monetary', 350, 'Declined', 'HerbaLife', '2015-11-15 21:56:06')
+Insert into Sponsorship Values (10, 101, 'Merchandize', 200, 'Pending', 'Nike', '2015-10-30 12:30:12')
+Insert into Sponsorship Values (9, 102, 'Monetary', 225, 'Approved', 'Coca- Cola', '2015-10-22 22:55:06')
+Insert into Sponsorship Values (10, 102, 'Merchandize', 300, 'Pending', 'Puma', '2015-10-28 14:05:11')
+
+
+/*Ticket_Pricing*/
+insert into Ticket_Pricing values(1,100,'A',400,5500)
+insert into Ticket_Pricing values(1,100,'B',350,6500)
+insert into Ticket_Pricing values(1,100,'C',300,9000)
+insert into Ticket_Pricing values(1,100,'D',250,10000)
+insert into Ticket_Pricing values(1,100,'E',200,12000)
+insert into Ticket_Pricing values(9,102,'A',80,100)
+insert into Ticket_Pricing values(9,102,'B',50,200)
+insert into Ticket_Pricing values(3,101,'A',50,500)
+insert into Ticket_Pricing values(3,101,'B',25,1000)
+insert into Ticket_Pricing values(10,103,'A',60,75)
+insert into Ticket_Pricing values(10,103,'B',40,100)
+
+
+/* Referee */
+Insert into Referee Values ('John Smith', 'Soccer', 'johnsmith@gmail.com', 4089992222)
+Insert into Referee Values ('Sam Manuel', 'Soccer', 'sammanuel@gmail.com', 4086684433)
+Insert into Referee Values ('Justin Long', 'Water Polo', 'justinlong@gmail.com', 4086691234)
+Insert into Referee Values ('Albert Hoshing', 'Basketball', 'alberth@gmail.com', 4086679833)
+Insert into Referee Values ('Miranda Peer', 'Basketball', 'mpeer@gmail.com', 4084456789)
+Insert into Referee Values ('Peter William', 'Water Polo', 'pwilliam@gmail.com', 3627892345)
+Insert into Referee Values ('Addison Abbey', 'Baseball', 'addabbey@gmail.com', 4082319513)
+Insert into Referee Values ('Greg Chappel', 'Baseball', 'gchappel@gmail.com', 4094567788)
+Insert into Referee Values ('James Brandon', 'Tennis', 'jbrandon@gmail.com', 4087894523)
+Insert into Referee Values ('Chandler Bing', 'Badminton', 'cbing@gmail.com', 4085567812)
+Insert into Referee Values ('Monica Geller', 'Tennis', 'mgeller@gmail.com', 4082116789)
+
+
+
+/* Tickets Booked*/
+Insert into Tickets_Booked Values (1, 100, 13, 'A', 50, 'Paid', '2015-11-12 10:55:16')
+Insert into Tickets_Booked Values (2, 100, 12, 'B', 20, 'Pending', '2015-11-13 12:25:02')
+Insert into Tickets_Booked Values (3, 100, 12, 'B', 20, 'Pending', '2015-11-13 12:25:02')
+Insert into Tickets_Booked Values (4, 100, 13, 'A', 50, 'Paid', '2015-11-12 10:55:16')
+Insert into Tickets_Booked Values (5, 100, 13, 'A', 50, 'Paid', '2015-11-12 10:55:16')
+Insert into Tickets_Booked Values (6, 100, 14, 'B', 20, 'Pending', '2015-11-13 12:25:02')
+Insert into Tickets_Booked Values (7, 100, 14, 'B', 20, 'Pending', '2015-11-13 12:25:02')
+Insert into Tickets_Booked Values (8, 100, 14, 'B', 20, 'Pending', '2015-11-13 12:25:02')
+Insert into Tickets_Booked Values (9, 100, 12, 'B', 20, 'Pending', '2015-11-13 12:25:02')
+Insert into Tickets_Booked Values (10, 101, 13, 'A', 20, 'Paid', '2015-11-05 12:25:02')
+Insert into Tickets_Booked Values (11, 101, 13, 'A', 20, 'Paid', '2015-11-05 12:25:02')
+Insert into Tickets_Booked Values (12, 101, 13, 'A', 20, 'Paid', '2015-11-05 12:25:02')
+Insert into Tickets_Booked Values (13, 103, 13, 'A', 20, 'Paid', '2015-10-03 12:25:02')
+Insert into Tickets_Booked Values (14, 103, 12, 'A', 20, 'Paid', '2015-10-03 12:26:02')
+Insert into Tickets_Booked Values (15, 103, 14, 'B', 20, 'Paid', '2015-10-03 12:28:02')
+
+/* Teams_Playing */
+Insert into Teams_Playing Values (1, 100, 'Playing', 4, 2)
+Insert into Teams_Playing Values (2, 100, 'Cancelled', 0, 0)
+Insert into Teams_Playing Values (3, 100, 'Playing', 4, 3)
+Insert into Teams_Playing Values (4, 100, 'Playing', 2, 0)
+Insert into Teams_Playing Values (5, 101, 'Playing', 3, 0)
+Insert into Teams_Playing Values (6, 101, 'Playing', 3, 3)
+Insert into Teams_Playing Values (7, 101, 'Playing', 3, 2)
+Insert into Teams_Playing Values (8, 101, 'Playing', 3, 1)
+Insert into Teams_Playing Values (9, 102, 'Playing', 2, 0)
+Insert into Teams_Playing Values (10, 102, 'Playing', 2, 1)
+Insert into Teams_Playing Values (11, 102, 'Playing', 2, 2)
+Insert into Teams_Playing Values (12, 102, 'Playing', 2, 0)
+Insert into Teams_Playing Values (13, 103, 'Playing', 9, 7)
+
+/* Event_Referee */
+Insert into Event_Referee Values ( 1, 100, 'Approved')
+Insert into Event_Referee Values ( 9, 102, 'Approved')
+Insert into Event_Referee Values ( 4, 101, 'Approved')
+Insert into Event_Referee Values ( 10, 103, 'Approved')
+
+
+update Event SET Star__Player_ID=27,Winning_Team_ID=6 Where Event_ID=101
+update Event SET Star__Player_ID=49,Winning_Team_ID=13 Where Event_ID=103
+
+
+
+
+
+
+
+
